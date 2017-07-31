@@ -1,0 +1,11 @@
+hsluv (0.0.2-2ubuntu1) artful; urgency=medium
+
+  * Upload for Artful
+
+ -- Steve Kondik <shade@chemlab.org>  Mon, 31 Jul 2017 02:16:36 -0700
+
+hsluv (0.0.2-2) yakkety; urgency=low
+
+  * source package automatically created by stdeb 0.8.5
+
+ -- Steve Kondik <shade@chemlab.org>  Mon, 13 Feb 2017 03:59:46 -0800
